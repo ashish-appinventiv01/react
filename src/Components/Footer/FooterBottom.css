@@ -1,0 +1,107 @@
+.Bottom-main {
+  display: flex;
+  justify-content: space-between;
+  background-color: #111111;
+}
+
+.bottom {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start; /* Aligns all child elements at the top */
+  background-color: #000000;
+  padding: 3.125rem 14.375rem 6.25rem 14.375rem; /* Converted from 50px 230px 100px 230px */
+  border-color: beige;
+}
+
+.Image-logo1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: white;
+  max-height: 5.625rem; /* Converted from 90px */
+  margin-top: 1.875rem; /* Converted from 30px */
+  padding-right: 1.25rem;
+  max-width: 12.5rem; /* Converted from 200px */
+}
+
+.Image-logo1 img {
+  width: 100%;
+  height: auto;
+}
+
+.Image-logo1-text {
+  width: 200%;
+  color: rgb(255, 255, 255);
+  padding: 0.5rem; /* Converted from 8px */
+  margin-top: 1.25rem; /* Converted from 20px */
+  box-sizing: border-box;
+}
+
+.bottom-Content {
+  display: flex;
+  flex: 3;
+  flex-direction: column;
+  margin-left: 5rem; /* Converted from 80px */
+  gap: 1.25rem; /* Converted from 20px */
+  font-size: 0.875rem; /* Converted from 14px */
+  color: #ffffff;
+}
+
+.bottom-Content h5 {
+  font-weight: bold;
+  color: rgb(255, 255, 255);
+  font-size: 1.375rem; /* Converted from 22px */
+  margin-bottom: 0.5rem; /* Converted from 8px */
+}
+
+.bottom-Content p {
+  font-size: 0.75rem; /* Converted from 12px */
+  color: #ffffff;
+  line-height: 1.5;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.bottom-description {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 0.5rem; /* Converted from 8px */
+  font-size: 1rem; /* Converted from 16px */
+  color: #ffffff;
+  margin-left: 25rem; /* Converted from 400px */
+  width: 25rem; /* Converted from 400px */
+  margin-right: 0.625rem; /* Converted from 10px */
+}
+
+.bottom-description h5 {
+  font-weight: bold;
+  color: rgb(255, 255, 255);
+  font-size: 1.375rem; /* Converted from 22px */
+  margin-bottom: 0.5rem; /* Converted from 8px */
+}
+
+.lower {
+  padding: 0 13%; /* Assume this remains the same as it's relative */
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 1.25rem; /* Converted from 20px */
+  background-color: black;
+  border-top: 0.0125rem solid #d2d6d6; /* Converted from 0.2px */
+}
+
+.lowerLeft {
+  color: white;
+  padding-left: 13.75rem; /* Converted from 220px */
+}
+
+.lowerRight {
+  color: white;
+  display: flex;
+  gap: 0.9375rem; /* Converted from 15px */
+  padding-right: 13.75rem; /* Converted from 220px */
+}

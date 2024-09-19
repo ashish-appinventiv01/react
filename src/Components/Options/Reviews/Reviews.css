@@ -1,0 +1,81 @@
+.reviews-container {
+    border: 0.0625rem solid #eee; /* Converted from 1px */
+    margin-top: -0.9375rem; /* Converted from -15px */
+}
+
+.reviews-container p {
+    color: #555;
+}
+
+.reviews-container form {
+    margin-top: -0.5rem; /* Converted from -8px */
+    padding-top: -0.625rem; /* Converted from -10px */
+    border: 0.0625rem solid #eee; /* Converted from 1px */
+    padding: 1.5625rem; /* Converted from 25px */
+    display: flex;
+    flex-direction: column;
+}
+
+.reviews-container form h2 {
+    margin-top: 0;
+    margin-bottom: -0.4375rem; /* Converted from -7px */
+}
+
+.reviews-container label {
+    display: block;
+    margin-bottom: 0.3125rem; /* Converted from 5px */
+    color: #555;
+}
+
+.reviews-container textarea {
+    width: 100%;
+    padding: 0.625rem; /* Converted from 10px */
+    margin-bottom: 0.9375rem; /* Converted from 15px */
+    border: 0.125rem dotted #000000; /* Converted from 2px */
+    border-radius: 0.25rem; /* Converted from 4px */
+}
+
+.reviews-container .input-group {
+    display: flex;
+    gap: 0.9375rem; /* Converted from 15px */
+    margin-bottom: 0.9375rem; /* Converted from 15px */
+}
+
+.reviews-container .input-group > div {
+    flex: 1;
+}
+
+.reviews-container input[type="text"], 
+.reviews-container input[type="email"] {
+    width: 95%;
+    padding: 0.625rem; /* Converted from 10px */
+    border: 0.0625rem solid #ddd; /* Converted from 1px */
+    border-radius: 0.25rem; /* Converted from 4px */
+}
+
+.reviews-container .checkbox-group {
+    display: flex;
+    align-items: center;
+    margin-bottom: 0.9375rem; /* Converted from 15px */
+    color: #555;
+}
+
+.reviews-container .checkbox-group input[type="checkbox"] {
+    margin-right: 0.625rem; /* Converted from 10px */
+}
+
+.reviews-container button[type="submit"] {
+    background-color: #7f5d53;
+    color: #ffffff;
+    background-color: black;
+    border: none;
+    width: 7.5%; /* This is a percentage value and does not convert to rem */
+    padding: 0.625rem 1.25rem; /* Converted from 10px 20px */
+    cursor: pointer;
+    border-radius: 0.25rem; /* Converted from 4px */
+    transition: background-color 0.3s ease;
+}
+
+.reviews-container button[type="submit"]:hover {
+    background-color: #b08a75;
+}

@@ -1,0 +1,7 @@
+.contact-main{
+    height: 31.25rem /* 500/16 */;
+    width: 31.25rem /* 500/16 */;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}

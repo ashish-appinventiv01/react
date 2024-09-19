@@ -1,0 +1,33 @@
+.about {
+    width: 100%;
+    background-color: #f9f8f6;
+    display: flex;
+    justify-content: center;
+    margin-top: -13.125rem; /* Converted from -210px */
+    padding-top: 10rem;
+    
+  }
+  
+  .aboutus {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 30rem;
+    gap: 1.25rem; /* Converted from 20px */
+    margin-bottom: 4.6875rem /* 75/16 */;
+  }
+  
+  .aboutus .para {
+    width: 40%;
+    height: 20rem;
+  }
+  
+  .parapic img {
+    width: 25rem; /* Converted from 40rem */
+  }
+  
+  .about h1 {
+    font-size: 5rem; /* Converted from 80px */
+  }
+  

@@ -1,0 +1,101 @@
+.login-container {
+    display: flex;
+    justify-content: center; /* Center the box horizontally */
+    align-items: center; /* Center the box vertically */
+    height: 80vh; /* Ensure the container takes up full height of the viewport */
+    font-family: Arial, sans-serif;
+    margin-bottom: 2.5rem; /* Converted from 40px */
+    margin-top: -5.625rem; /* Converted from -90px */
+}
+
+.page-heading {
+    margin-bottom: 5.625rem; /* Converted from 90px */
+    margin-left: -23.125rem; /* Converted from -370px */
+    font-family: A;
+    font-size: 2rem; /* Converted from 32px */
+}
+
+.content-wrapper {
+    margin-top: -2.5rem; /* Converted from -40px */
+}
+
+.login-Content {
+    width: 25rem; /* Converted from 400px */
+    padding: 1.25rem; /* Converted from 20px */
+    border: 0.0625rem solid #ddd; /* Converted from 1px */
+    box-shadow: 0 0 0.625rem rgba(0, 0, 0, 0.1); /* Converted from 10px */
+}
+
+.login-Content h1 {
+    font-size: 2.1875rem; /* Converted from 35px */
+    font-weight: 1800;
+    margin-bottom: 3.125rem; /* Converted from 50px */
+    margin-left: 1.25rem; /* Converted from 20px */
+    text-align: center; /* Align heading to the center */
+}
+
+.inputfield {
+    margin-bottom: 1.875rem; /* Converted from 30px */
+    position: relative;
+    margin-right: 4.0625rem; /* Converted from 65px */
+}
+
+.inputfield label {
+    display: block;
+    margin-bottom: 0.3125rem; /* Converted from 5px */
+    font-weight: bold;
+}
+
+.inputfield input {
+    width: 100%;
+    padding: 0.625rem; /* Converted from 10px */
+    height: 1.4375rem; /* Converted from 23px */
+    border: 0.0625rem solid #ccc; /* Converted from 1px */
+    border-radius: 0.25rem; /* Converted from 4px */
+    padding-right: 2.5rem; /* Converted from 40px */
+}
+
+.show-password {
+    position: absolute;
+    right: -2.1875rem; /* Converted from -35px */
+    top: 0.75rem; /* Converted from 12px */
+    cursor: pointer;
+    color: #888;
+}
+
+.remember-me {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1.25rem; /* Converted from 20px */
+}
+
+.remember-me label {
+    margin-left: 0.3125rem; /* Converted from 5px */
+}
+
+.login-button {
+    width: 100%;
+    padding: 0.625rem; /* Converted from 10px */
+    background-color: #000;
+    color: #fff;
+    border: none;
+    border-radius: 0.25rem; /* Converted from 4px */
+    cursor: pointer;
+    font-size: 1rem; /* Converted from 16px */
+}
+
+.login-button:hover {
+    background-color: #C19A83;
+}
+
+.lost-password {
+    display: block;
+    margin-top: 0.9375rem; /* Converted from 15px */
+    text-align: center;
+    color: #b69580;
+    text-decoration: none;
+}
+
+.lost-password:hover {
+    text-decoration: underline;
+}

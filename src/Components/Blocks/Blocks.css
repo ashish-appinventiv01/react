@@ -1,0 +1,54 @@
+.Block {
+    margin: 1.25rem; /* Converted from 20px */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #F8F6F3;
+    padding-left: 14.375rem; /* Converted from 230px */
+    padding-right: 14.375rem; /* Converted from 230px */
+    padding-top: 7.1875rem; /* 115px / 16 */
+    padding-bottom: 7.1875rem; /* 115px / 16 */
+}
+
+.a1 {
+    padding-top: 1.5625rem; /* Converted from 25px */
+    position: relative;
+}
+
+.a1-img {
+    position: absolute;
+    left: 43%;
+    top: 0;
+}
+
+.block-container {
+    border: 0.125rem solid #ccc; /* Converted from 2px */
+    padding-left: 2.8125rem; /* Converted from 45px */
+    padding-top: 1.25rem; /* Converted from 20px */
+    background-color: white;
+    border: none;
+    border-radius: 0.9375rem; /* Converted from 15px */
+    background-image: url('../../assets/Product1.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: rgb(0, 0, 0);
+    width: 23.125rem; /* Converted from 370px */
+    height: 22.5rem; /* Converted from 360px */
+    margin-top: 1.25rem; /* Converted from 20px */
+    margin-bottom: 1.25rem; /* Converted from 20px */
+}
+
+.block-container p {
+    padding-right: 1.25rem; /* Converted from 20px */
+}
+
+.block-container button {
+    background-color: green;
+    font-size: 1.4375rem; /* Converted from 23px */
+    border: none;
+    border-radius: 0.9375rem; /* Converted from 15px */
+    padding: 0.4375rem 0.9375rem; /* Converted from 7px 15px */
+    color: white;
+    cursor: pointer;
+}

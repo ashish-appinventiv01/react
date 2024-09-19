@@ -1,0 +1,36 @@
+.DarkArea-Main {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding-left: 19.875rem; /* Converted from 318px */
+  padding-right: 19.875rem; /* Converted from 318px */
+  background-color: black;
+  padding-top: 2.8125rem; /* Converted from 45px */
+  padding-bottom: 2.5rem; /* Converted from 40px */
+}
+
+.blocks {
+  width: 22%;
+  background-color: #333;
+  color: #fff;
+  margin-bottom: 1.25rem; /* Converted from 20px */
+  border-radius: 0.5rem; /* Converted from 8px */
+  text-align: center;
+  border: 0.125rem solid #303030; /* Converted from 2px */
+}
+
+.image-heading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.image-heading h3 {
+  margin-left: 0.625rem; /* Converted from 10px */
+}
+
+.Darktext {
+  font-size: 0.875rem; /* Converted from 14px */
+  margin-top: -1.5625rem; /* Converted from -25px */
+  padding-top: 0; /* Converted from 0px */
+}

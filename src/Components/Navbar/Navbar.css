@@ -1,0 +1,27 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.9375rem; /* Converted from 15px */
+}
+
+.Image-logo {
+  display: flex;
+  align-items: center;
+  margin-right: 1.875rem; /* Converted from 30px */
+}
+
+.Content {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem; /* Converted from 24px */
+  font-size: 1rem; /* Converted from 16px */
+}
+
+.description {
+  display: flex;
+  align-items: center;
+  gap: 1.5625rem; /* Converted from 25px */
+  font-size: 1rem; /* Converted from 16px */
+  margin-left: auto;
+}
