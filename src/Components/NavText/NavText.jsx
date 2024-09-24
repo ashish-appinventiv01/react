@@ -7,7 +7,7 @@ const NavText = () => {
         <div className='NavText-image'>
             <img 
                 src="https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2021/03/organic-products-hero.png"
-                alt="">
+                alt="Demo">
 
                 </img>
 

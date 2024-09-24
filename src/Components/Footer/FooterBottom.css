@@ -105,3 +105,13 @@
   gap: 0.9375rem; /* Converted from 15px */
   padding-right: 13.75rem; /* Converted from 220px */
 }
+
+/* Add styles to remove underline and change color of links */
+.bottom a {
+  text-decoration: none; /* Removes underline */
+  color: inherit; /* Inherits the current color */
+}
+
+.bottom a:hover {
+  color: #007bff; /* Change to your desired hover color */
+}
